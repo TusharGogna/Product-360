@@ -1,0 +1,25 @@
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="0" android:drawable="@drawable/image1" />
+    <item android:maxLevel="1" android:drawable="@drawable/image2" />
+    <item android:maxLevel="2" android:drawable="@drawable/image3" />
+    <item android:maxLevel="3" android:drawable="@drawable/image4" />
+    <item android:maxLevel="4" android:drawable="@drawable/image5" />
+
+    <item android:maxLevel="5" android:drawable="@drawable/image6" />
+    <item android:maxLevel="6" android:drawable="@drawable/image7" />
+    <item android:maxLevel="7" android:drawable="@drawable/image8" />
+    <item android:maxLevel="8" android:drawable="@drawable/image9" />
+    <item android:maxLevel="9" android:drawable="@drawable/image10" />
+
+    <item android:maxLevel="10" android:drawable="@drawable/image11" />
+    <item android:maxLevel="11" android:drawable="@drawable/image12" />
+    <item android:maxLevel="12" android:drawable="@drawable/image13" />
+    <item android:maxLevel="13" android:drawable="@drawable/image14" />
+    <item android:maxLevel="14" android:drawable="@drawable/image15" />
+
+    <item android:maxLevel="15" android:drawable="@drawable/image16" />
+    <item android:maxLevel="16" android:drawable="@drawable/image17" />
+    <item android:maxLevel="17" android:drawable="@drawable/image18" />
+    <item android:maxLevel="18" android:drawable="@drawable/image19" />
+    <item android:maxLevel="19" android:drawable="@drawable/image20" />
+</level-list>
