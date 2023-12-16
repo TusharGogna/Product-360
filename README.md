@@ -2,5 +2,6 @@
 
 #### This is how it looks:
 
-https://github.com/TusharGogna/Product-360/assets/36148180/b09045a4-e313-481a-9ef4-834258feb402
+![product_view](https://github.com/TusharGogna/Product-360/assets/36148180/6d32ecdd-d483-422b-a018-56a1cc2682e7)
+
 
